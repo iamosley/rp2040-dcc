@@ -21,12 +21,12 @@
 title: NMRA DCC on RP2040
 email: iamosley@yahoo.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Developing RP2040 MicroPython code to run a NMRA DCC command station
-  on an adafruit Metro RP2040.
+  Developing RP2040 MicroPython code on an adafruit Metro RP2040 to run a
+  simplified NMRA DCC command station.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: amosley 
+github_username: iamosley 
 
 # Build settings
 theme: minima
